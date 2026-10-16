@@ -32,11 +32,10 @@ A Python-based desktop application for managing PDF documents and images with a 
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-image-toolkit.git
-cd pdf-image-toolkit
+https://github.com/kaushaltamnar77/python-document-toolkit.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 **2. Install dependencies**
 
